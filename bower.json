@@ -1,0 +1,12 @@
+{
+  "name": "imedify-wp-theme",
+  "version": "0.0.0",
+  "main": "views/index.html",
+  "authors": [
+    "Sergiu Paraschiv"
+  ],
+  "license": "none",
+  "dependencies": {
+    "bootstrap": "~3.0.2"
+  }
+}
